@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+My name : Muhammad Rizqi Hamsyah
+School : SMKN 2 SEMARANG
+Class : Software Enginering ( RPL )
 <!--
 **RAZORKENZY/RAZORKENZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
