@@ -5,7 +5,7 @@ School : SMKN 2 SEMARANG 🔭
 
 Class : Software Enginering ( RPL ) ⚡
 
-### KERJA : [click here](https://mygithub.razorkenzy.repl.co)
+### KERJA : [click here](https://razorkenzy.github.io/)
 <!--
 **RAZORKENZY/RAZORKENZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
